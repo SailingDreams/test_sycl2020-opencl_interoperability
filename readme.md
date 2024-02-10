@@ -1,7 +1,8 @@
 # 3x3 opencl convolution using syscl interoperability
 
-## Build
+## Tools
 Visual Studio 2022
+2020 oneAPI Base Toolkit
 
 ## Usage
 Powershell syntax

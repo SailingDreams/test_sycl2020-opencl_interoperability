@@ -3,16 +3,11 @@
 ## Build
 Visual Studio 2022
 
-## Results
-
-
 ## Usage
 Powershell syntax
 cd x64\Debug
- .\syclOpenClBenchmark.exe gpu
- 
-  1000 false false
-  .\syclOpenClBenchmark.exe cpu 1000 false false
+ .\syclOpenClBenchmark.exe gpu 1000 false false
+.\syclOpenClBenchmark.exe cpu 1000 false false
 
   Help
   syclOpenclBenchmark.exe device[cpu|gpu] iterations[> 100] verbose[true,false] enableTrace[true|false]
@@ -53,3 +48,8 @@ Img: Avg Processing Time = 404445[ns]
 
 ## Credits
 Thanks to C at Intel for help debugging. 
+
+## Reference
+Data Parallel C++
+Mastering DPC++ for Programming of Heterogeneous Systems using C++ and SYCL
+https://link.springer.com/book/10.1007/978-1-4842-5574-2

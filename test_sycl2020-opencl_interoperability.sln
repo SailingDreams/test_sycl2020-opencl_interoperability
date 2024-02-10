@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33424.131
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "test_sycl2020-opencl_interoperability", "test_sycl2020-opencl_interoperability.vcxproj", "{7D6D0C48-E6AD-4845-9EA0-BDCBFF98E137}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7D6D0C48-E6AD-4845-9EA0-BDCBFF98E137}.Debug|x64.ActiveCfg = Debug|x64
+		{7D6D0C48-E6AD-4845-9EA0-BDCBFF98E137}.Debug|x64.Build.0 = Debug|x64
+		{7D6D0C48-E6AD-4845-9EA0-BDCBFF98E137}.Release|x64.ActiveCfg = Release|x64
+		{7D6D0C48-E6AD-4845-9EA0-BDCBFF98E137}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9667D8A4-F3E7-4A15-96A7-D520DDA45A35}
+	EndGlobalSection
+EndGlobal
